@@ -69,13 +69,13 @@ To explore or modify this Power BI project:
 
 
 ## Screenshots
-![Dashboards](Dashboards/Screenshot_of_Facebook_Ad_Performance_Overview.png)
+![Dashboards](Dashboards/Screenshot_of_Facebook_Ad_Performance_-_Overview.png)
 *Screenshot: Main Dashboard Overview*
 
-![Dashboards](Dashboards/Screenshot_of_Facebook_Ad_Performance_Acitivity.png)
+![Dashboards](Dashboards/Screenshot_of_Facebook_Ad_Performance_-_Activity.png)
 *Screenshot: Acitivity*
 
-![Dashboards](Dashboards/Screenshot_of_Facebook_Ad_Performance_Top_Performing.png)
+![Dashboards](Dashboards/Screenshot_of_Facebook_Ad_Performance_-_Top_Performing.png)
 *Screenshot: Top Performing*
 
 ## Custom DAX Measures
