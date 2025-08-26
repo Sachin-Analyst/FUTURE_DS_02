@@ -73,7 +73,7 @@ To explore or modify this Power BI project:
 *Screenshot: Main Dashboard Overview*
 
 ![Dashboards](Dashboards/Screenshot%20of%20Facebook%20Ad%20Performance%20-%20Activity.png)
-*Screenshot: Acitivity*
+*Screenshot: Activity*
 
 ![Dashboards](Dashboards/Screenshot%20of%20Facebook%20Ad%20Performance%20-%20Top%20Performing.png)
 *Screenshot: Top Performing*
