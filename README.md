@@ -1,4 +1,4 @@
-<img width="686" height="272" alt="image" src="https://github.com/user-attachments/assets/3889409c-c2c3-43a8-bce9-627ee6f2b3d8" /># Facebook Ads Performance Analytics Power BI Project
+# Facebook Ads Performance Analytics Power BI Project
 
 Welcome to my second Power BI analytics project and GitHub contribution. This dashboard dives deep into Facebook Ads performance using real world campaign data. It’s designed to uncover cost efficiency, demographic impact and conversion trends powered by custom DAX measures and a passion for data storytelling.
 
