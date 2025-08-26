@@ -1,6 +1,6 @@
-# Facebook Ads Performance Analytics — Power BI Project
+# Facebook Ads Performance Analytics Power BI Project
 
-Welcome to my second Power BI analytics project and GitHub contribution! This dashboard dives deep into Facebook Ads performance using real-world campaign data. It’s designed to uncover cost efficiency, demographic impact, and conversion trends—powered by custom DAX measures and a passion for data storytelling.
+Welcome to my second Power BI analytics project and GitHub contribution. This dashboard dives deep into Facebook Ads performance using real world campaign data. It’s designed to uncover cost efficiency, demographic impact and conversion trends powered by custom DAX measures and a passion for data storytelling.
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to my second Power BI analytics project and GitHub contribution! This da
 
 ## Project Description
 
-This Power BI dashboard analyzes Facebook ad campaigns across multiple dimensions—CPA, CPC, CPM, CTR, and conversion rates. It helps marketers and analysts identify top-performing ads, optimize spending by age and gender, and decode campaign effectiveness.
+This Power BI dashboard analyzes Facebook ad campaigns across multiple dimensions CPA, CPC, CPM, CTR, and conversion rates. It helps marketers and analysts identify top-performing ads, optimize spending by age and gender and decode campaign effectiveness.
 
 ### Key Features
 
@@ -55,7 +55,7 @@ To explore or modify this Power BI project:
    - Kindly review the charts and measures.
     
 4. *To create a dashboard:*
-   - Navigate to Raw Data folder  in the FUTURE_DS_02 repo download the .xlsx file.
+   - Navigate to Raw Data folder in the FUTURE_DS_02 repo download the .xlsx file.
    - Kindly review the data in excel and save your data in your local computer
    - Open Power BI Desktop > Blank Report > Get data > Excel > Connect > Then choose the file in your local compute
   
