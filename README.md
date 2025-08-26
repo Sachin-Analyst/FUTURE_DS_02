@@ -53,7 +53,7 @@ To explore or modify this Power BI project:
 3. *Open the Facebook Ads Performance Dashboard:*
    - Go to the Dashboards folder and open the .pbix file.
    - Kindly review the charts and measures.
-   - 
+    
 4. *To create a dashboard:*
    - Navigate to Raw Data folder  in the FUTURE_DS_02 repo download the .xlsx file.
    - Kindly review the data in excel and save your data in your local computer
@@ -69,13 +69,13 @@ To explore or modify this Power BI project:
 
 
 ## Screenshots
-![Dashboards](Dashboards/Screenshot of Facebook Ad Performance - Overview.png)
+![Dashboards](Dashboards/Screenshot_of_Facebook_Ad_Performance_Overview.png)
 *Screenshot: Main Dashboard Overview*
 
-![Dashboards](Dashboards/Screenshot of  Facebook Ad Performance - Acitivity.png)
+![Dashboards](Dashboards/Screenshot_of_Facebook_Ad_Performance_Acitivity.png)
 *Screenshot: Acitivity*
 
-![Dashboards](Dashboards/Screenshot of Facebook Ad Performance - Top Performing.png)
+![Dashboards](Dashboards/Screenshot_of_Facebook_Ad_Performance_Top_Performing.png)
 *Screenshot: Top Performing*
 
 ## Custom DAX Measures
